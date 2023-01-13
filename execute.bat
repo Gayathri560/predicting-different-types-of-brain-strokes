@@ -1,0 +1,2 @@
+python Home.py
+pause
